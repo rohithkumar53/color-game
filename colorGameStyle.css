@@ -1,0 +1,26 @@
+body{
+	background: black;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+#ErrorMessage{
+	text-align: center;
+	background: white;
+}
+.square{
+	width: 30%;
+	background: red;
+	border-radius: 30px;
+	margin:1.66%;
+	padding-bottom: 30%;
+	float: left;
+}
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+.selected{
+	background: pink;
+}
